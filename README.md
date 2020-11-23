@@ -9,10 +9,10 @@ You will need the following to run the above:
   - All the required NVIDIA software to run TF on a GPU (cuda, etc)
 ### Dataset
 4 benchmark datasets are used to evaluate the proposed method, NEU-CLS-64, wood dataset, textile dataset and GC10
-NEU-CLS-64:You can access [here](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html) and download NEU-CLS-64, and put the dataset in directory 'NEU-CLS-64'.
-wood dataset: You can access [this paper](https://link.springer.com/article/10.1007%2Fs00138-002-0084-z) to download the dataset and put it in directory 'wood'.
-textile dataset: You can access [here](https://www.kaggle.com/belkhirnacim/textiledefectdetection) to download the dataset and put it in directory 'textile'.
-GC10: You can access [this paper](https://www.mdpi.com/1424-8220/20/6/1562) to download the dataset and put it in directory 'MSD'.
+-NEU-CLS-64:You can access [here](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html) and download NEU-CLS-64, and put the dataset in directory 'NEU-CLS-64'.
+-wood dataset: You can access [this paper](https://link.springer.com/article/10.1007%2Fs00138-002-0084-z) to download the dataset and put it in directory 'wood'.
+-textile dataset: You can access [here](https://www.kaggle.com/belkhirnacim/textiledefectdetection) to download the dataset and put it in directory 'textile'.
+-GC10: You can access [this paper](https://www.mdpi.com/1424-8220/20/6/1562) to download the dataset and put it in directory 'MSD'.
 
 ### Citation
 On-going
